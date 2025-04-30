@@ -1,4 +1,4 @@
-# Reporte-Tractchun-2016-2020
+# Reporte-Tractchun-
 # Análisis de Tickets (2016–2020)
 
 Este proyecto fue desarrollado en Power BI Desktop y tiene como objetivo analizar y visualizar los tickets de la empresa **Tractchun**, entre los años 2016 y 2020.
