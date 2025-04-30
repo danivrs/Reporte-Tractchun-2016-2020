@@ -1,5 +1,5 @@
 # Reporte-Tractchun-2016-2020
-# Análisis de Tickets de Atención al Cliente – Tractchun (2016–2020)
+# Análisis de Tickets (2016–2020)
 
 Este proyecto fue desarrollado en Power BI Desktop y tiene como objetivo analizar y visualizar los tickets de la empresa **Tractchun**, entre los años 2016 y 2020.
 
@@ -9,7 +9,7 @@ Proveer un análisis detallado del comportamiento y gestión de las solicitudes 
 
 ## 🗂️ Fuente de Datos
 
-- Archivos Excel internos de la empresa Tractchun.
+- Datos internos de la empresa Tractchun formato xlsx.
 - Los datos fueron tratados, limpiados y transformados directamente en Power BI Desktop.
 
 ## 🧩 Métricas y Visualizaciones Incluidas
