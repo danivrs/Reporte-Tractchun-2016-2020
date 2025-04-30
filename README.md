@@ -31,13 +31,11 @@ Proveer un análisis detallado del comportamiento y gestión de las solicitudes 
 
 ## 🖥️ Vista del Panel de Control
 
+![Dashboard 1](https://github.com/user-attachments/assets/0efeead6-e742-4d6b-8afe-94d04c787061)
+![Dashboard 2](https://github.com/user-attachments/assets/850c9bdc-69c1-443c-a1f5-94ee4f07bb92)
+![Dashboard 3](https://github.com/user-attachments/assets/023455fa-c594-4f65-9945-2092ad9f01a4)
 
-![Dashboard](<img width="587" alt="DB1" src="https://github.com/user-attachments/assets/0efeead6-e742-4d6b-8afe-94d04c787061" />
-)
-![Dashboard](<img width="581" alt="DB2" src="https://github.com/user-attachments/assets/850c9bdc-69c1-443c-a1f5-94ee4f07bb92" />
-)
-![Dashboard](<img width="572" alt="DB3" src="https://github.com/user-attachments/assets/023455fa-c594-4f65-9945-2092ad9f01a4" />
-)
+
 
 ## 🚀 Cómo Ver el Proyecto
 1. Descarga el archivo [📥 Reporte PBI.pbix](https://github.com/danivrs/Reporte-Tractchun-2016-2020/raw/main/Reporte%20PBI.pbix) desde este repositorio.
