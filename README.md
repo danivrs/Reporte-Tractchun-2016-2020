@@ -40,8 +40,7 @@ Proveer un análisis detallado del comportamiento y gestión de las solicitudes 
 )
 
 ## 🚀 Cómo Ver el Proyecto
-
-1. Descarga el archivo [📥 Descargar Reporte PBI.pbix](./Reporte PBI.pbix) desde este repositorio.
+1. Descarga el archivo [📥 Reporte PBI.pbix](https://github.com/danivrs/Reporte-Tractchun-2016-2020/raw/main/Reporte%20PBI.pbix) desde este repositorio.
 2. Ábrelo con [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/).
 3. Explora los paneles interactivos para conocer el análisis completo.
 ---
